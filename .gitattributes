@@ -1,0 +1,6 @@
+features.csv filter=lfs diff=lfs merge=lfs -text
+janestreet/** filter=lfs diff=lfs merge=lfs -text
+Output/** filter=lfs diff=lfs merge=lfs -text
+example_test.csv filter=lfs diff=lfs merge=lfs -text
+example_sample_submission.csv filter=lfs diff=lfs merge=lfs -text
+example_test.lnk filter=lfs diff=lfs merge=lfs -text
