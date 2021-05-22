@@ -7,7 +7,7 @@ Jane Street hosted a code competition for stock prediction (from Feb 2021 to Aug
 In general, if one is able to generate a highly predictive model which selects the right trades to execute, they would also be playing an important role in sending the market signals that push prices closer to “fair” values. That is, a better model will mean the market will be more efficient going forward. However, developing good models will be challenging for many reasons, including a very low signal-to-noise ratio, potential redundancy, strong feature correlation, and difficulty of coming up with a proper mathematical formulation.
 
 ## Proposed Solution
-Even the world's finest financial expert wouldn't be able to gain anything from this anonymized data. Hence we are forced to use machine learning or data science approach to solve this problem.
+Even the world's finest financial expert wouldn't be able to gain anything from this anonymized data. Hence we will use the machine learning or data science approach to solve this problem.
 Since the goal is clear (maximize profit) we want to see which features seem important or strange through EDA and visualizations. The dataset is large so operations so performed should be memory efficient. This will help us decide what to do with missing values and do feature engineering to help the computer learn.
 Then we are going to build a classifier model to let the computer do the hard work of learning to make good predictions.
 
